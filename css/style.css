@@ -1,0 +1,29 @@
+.table-wrapper{
+    margin-top:100px;
+}
+.delete {
+    cursor:pointer;
+}
+.edit_form{
+    width: 350px;
+    border: 2px solid black;
+    padding:20px;
+    display:none;
+    position: absolute;
+    background: white;
+    z-index:999;
+}
+.container{
+    padding-bottom: 150px;
+
+}
+.panel{
+    max-width:500px;
+}
+table td, table th {
+    vertical-align: middle !important;
+    text-align: center;
+}
+.non-show{
+    display: none;
+}
